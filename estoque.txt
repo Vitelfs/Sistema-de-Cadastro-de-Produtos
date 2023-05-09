@@ -1,0 +1,36 @@
+****************************************
+Numero de identificacao: 1
+Nome: Notebook gamer
+Numero de Serie: 231231
+Valor unitario do produto: R$5999.00
+Quantidade de produtos: 55
+Preco Total: R$329945.00
+Descricao: Notebook gamer Acer 15' i5 10400h 16gb gtx 1650 1tbssd
+****************************************
+****************************************
+Numero de identificacao: 2
+Nome: Tablet
+Numero de Serie: 32312
+Valor unitario do produto: R$1200.00
+Quantidade de produtos: 3
+Preco Total: R$3600.00
+Descricao: Tablet 8" 32gb de armazenamento 2gb ram
+****************************************
+****************************************
+Numero de identificacao: 3
+Nome: Bicicleta
+Numero de Serie: 421412
+Valor unitario do produto: R$199.00
+Quantidade de produtos: 5
+Preco Total: R$995.00
+Descricao: Bicicleta aro 20
+****************************************
+****************************************
+Numero de identificacao: 4
+Nome: Mouse gamer
+Numero de Serie: 31231
+Valor unitario do produto: R$199.00
+Quantidade de produtos: 3
+Preco Total: R$597.00
+Descricao: Mouse gamer hyperX pulsefire 6000dpi
+****************************************
